@@ -49,6 +49,7 @@
 
             imagemagick
             http-server
+            android-tools
 
             pkg-config
             xorg.libX11

@@ -5,3 +5,8 @@ edition = "2021"
 
 [dependencies]
 macroquad = "0.4"
+
+[package.metadata.android]
+assets = "assets/"
+[package.metadata.android.activity_attributes]
+"android:exported" =  "true"
